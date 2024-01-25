@@ -9,3 +9,12 @@ body {
     text-align: center;
     color: aqua;
 }
+
+body > * {
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 100px;
+    text-transform: uppercase;
+}
