@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgb(100, 3, 3);
+    text-align: center;
+    color: aqua;
+}
