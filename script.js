@@ -18,4 +18,4 @@ document.getElementById("fav-colour").innerHTML = colore ;
 
 // sezione password
 
-document.getElementById("password").innerHTML = 'La tua password generata è: ' + nome + cognome + colore + '23' ;
+document.getElementById("password").innerHTML = 'La tua password generata in modo totalmente casuale è: ' + nome + cognome + colore + '23' ;
